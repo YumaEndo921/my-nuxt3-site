@@ -1,5 +1,5 @@
 <template>
-  <h1 class="text-3xl font-bold pb-4">About</h1>
+  <h1 class="text-3xl font-bold pb-4">{{ label }}</h1>
 </template>
 
 <script setup lang="ts">
